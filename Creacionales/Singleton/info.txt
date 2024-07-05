@@ -1,0 +1,2 @@
+Este patrón se utiliza para poder crear elementos una única vez y luego se 
+verifica si está el objeto creado, si es así se trae sino se lo crea.

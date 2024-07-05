@@ -1,0 +1,1 @@
+Permite crear objetos y a medida que se van creando se van configurando.

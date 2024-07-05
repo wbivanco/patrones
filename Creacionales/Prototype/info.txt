@@ -1,0 +1,3 @@
+Crea objetos basados en una plantilla de un objeto existente a traves 
+de la clonación, es útil cuando crear una objeto es mas caro que clonar 
+un objeto existente.
