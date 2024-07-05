@@ -1,0 +1,2 @@
+Este patrón adapta diferentes interfaces que tienen distintos formatos de forma 
+sencilla.
