@@ -1,0 +1,3 @@
+Se utiliza para crear una relación de suscripción entre objetos, de modo que cuando un objeto cambia su estado todos sus dependientes son 
+notificados y actualizados automáticamente. Es útil en sitiaciones en donde un objeto necesita ser monitorado por uno o varios dependientes. 
+Como interfaces gráficas de usuario, sistemas de notificación o en el manejo de eventos.
