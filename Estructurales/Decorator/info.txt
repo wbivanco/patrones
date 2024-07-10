@@ -1,1 +1,1 @@
-Permite agregar funcionalidades a un objeto en forma dinámica.
+Añadir responsabilidades a objetos dinámicamente. Permite agregar funcionalidades a un objeto en forma dinámica.

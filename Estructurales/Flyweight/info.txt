@@ -1,2 +1,2 @@
- Se enfoca en reducir la cantidad de memoria utilizada por un programa al compartir objetos comunes en lugar de crear instancias nuevas para 
- cada uso, es útil en donde un gran número de objetos similares son utilizados permitiendo una gestión eficiente de memoria.
+Minimizar uso de memoria o costos computacionales. Se enfoca en reducir la cantidad de memoria utilizada por un programa al compartir objetos comunes en lugar de crear instancias nuevas para 
+cada uso, es útil en donde un gran número de objetos similares son utilizados permitiendo una gestión eficiente de memoria.

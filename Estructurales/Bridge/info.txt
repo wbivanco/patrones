@@ -1,4 +1,4 @@
-Desacopla la abstracción de la implementación de una clase de manera de que ambos puedan variar de forma independiente, es útil para separar 
+Separar abstracción de implementación. Desacopla la abstracción de la implementación de una clase de manera de que ambos puedan variar de forma independiente, es útil para separar 
 la lógica de alto nivel de su implementación específica lo que facilita la extensibilidad y escalibilidad del código. Se implementa 
 definiendo una interfáz de abstracción que contiene una referencia a un objeto de tipo implementor, las subclases de abstraction pueden 
 cambiar la implementación concreta en tiempo de ejecución permitiendo variaciones en la implementación sin cambiar la abstracción.

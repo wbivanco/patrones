@@ -1,2 +1,2 @@
-Permite que un objeto altere su comportamiento cuando su estado interno cambia, el objeto parece que cambia su clase. Es útil en situaciones 
+cambios de comportamiento de un objeto cuando su estado interno cambia. Permite que un objeto altere su comportamiento cuando su estado interno cambia, el objeto parece que cambia su clase. Es útil en situaciones 
 donde el comportamiento de un objeto depende de su estado actual y puede cambiar en tiempo de ejecución.

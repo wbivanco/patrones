@@ -1,4 +1,4 @@
-Permite crear distintos tipos de objetos a partir de una clase base de la cual
+Crear objetos sin exponer la lógica de creación. Permite crear distintos tipos de objetos a partir de una clase base de la cual
 van a heredar otras clases; en dicha clase base se declaran métodos abstractos
 pero que no son implemetados en dicha clase base, sino que la implementación 
 la debén hacer las clases que heredan de esa clase base.

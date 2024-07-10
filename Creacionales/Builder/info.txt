@@ -1,1 +1,1 @@
-Permite crear objetos y a medida que se van creando se van configurando.
+Construcción de un objeto complejo paso a paso. Permite crear objetos y a medida que se van creando se van configurando.

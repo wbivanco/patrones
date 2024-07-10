@@ -1,2 +1,2 @@
-A diferencia del patrón factory, aquí se puede extender a varios productos(era uno
+Crear familias de objetos relacionados. A diferencia del patrón factory, aquí se puede extender a varios productos(era uno
 solo el factory) y a subproductos.

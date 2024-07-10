@@ -1,0 +1,1 @@
+Mejoran la composición y relación entre objetos.

@@ -1,2 +1,2 @@
-Este patrón adapta diferentes interfaces que tienen distintos formatos de forma 
+Interfaz unificada entre interfaces incompatibles. Este patrón adapta diferentes interfaces que tienen distintos formatos de forma 
 sencilla.

@@ -1,2 +1,2 @@
-Permite pasar la solicitud a lo largo de una cadena de manejadores, al recibir una solicitud cada manejador decide si puede solicitarla o no; 
+Pasar solicitudes a lo largo de una cadena de manejadores. Permite pasar la solicitud a lo largo de una cadena de manejadores, al recibir una solicitud cada manejador decide si puede solicitarla o no; 
 si no la puede procesar decide si la pasa al siguiente manejador de la cadena. Es útil para manejar solicitudes y procesarlas de manera flexible.

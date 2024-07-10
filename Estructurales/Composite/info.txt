@@ -1,4 +1,4 @@
-Se utiliza para tratar un grupo de objetos de manera similar a como tratar un objeto individual, es útil con estructuras de datos jerárquicas, 
+Componer objetos en estructura de árbol. Se utiliza para tratar un grupo de objetos de manera similar a como tratar un objeto individual, es útil con estructuras de datos jerárquicas, 
 permitiendo a los clientes tratar objetos individuales y composiciones de objetos de manera uniforme. Permite componer objetos en estructuras 
 de árboles para representar jerarquías y facilita a los clientes el manejo de objetos. La implementación define una interfáz común para clases 
 individuales y sus composiciones.

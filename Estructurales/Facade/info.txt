@@ -1,1 +1,1 @@
-Proporciona una interfaz simplificada a un conjunto de clases, biblioteca o framework, es util de proyectos con multiples subsistemas.
+Interfaz simplificada de un sistema complejo. Proporciona una interfaz simplificada a un conjunto de clases, biblioteca o framework, es util de proyectos con multiples subsistemas.

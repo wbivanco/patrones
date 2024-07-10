@@ -1,0 +1,1 @@
+Simplifican la creación de objetos.
